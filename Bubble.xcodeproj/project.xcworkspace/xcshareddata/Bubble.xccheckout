@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97CC6F73-3A88-4EC6-B71E-FCAF1A4C6F2B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bubble</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>05C9029F2B1F07620582C00C3F6A62251DB70AEB</key>
+		<string>https://github.com/Leo3600Liu/Bubble_Leo.git</string>
+		<key>549A7972E6D8354A555C9315764763F226295368</key>
+		<string>https://github.com/Leo3600Liu/Guiaddexampleleo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bubble.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>05C9029F2B1F07620582C00C3F6A62251DB70AEB</key>
+		<string>../..</string>
+		<key>549A7972E6D8354A555C9315764763F226295368</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Leo3600Liu/Bubble_Leo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>05C9029F2B1F07620582C00C3F6A62251DB70AEB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>549A7972E6D8354A555C9315764763F226295368</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>05C9029F2B1F07620582C00C3F6A62251DB70AEB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bubble_Leo%20copy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
